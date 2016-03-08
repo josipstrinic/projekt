@@ -11,6 +11,7 @@ namespace visual
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world once again");
+            Console.WriteLine("New message");
         }
     }
 }
